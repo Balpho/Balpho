@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Balpho. I earned CISSP certif in 2007. My professional background has been more on infosec management.
+- 👋 Hi, I’m @Balpho. My professional background has been more on infosec management.
 - 👀 I’m now interested in ethical hacking.
-- 🌱 I’m currently learning pen testing, jS and python.
+- 🌱 I’m currently learning pen testing, JS and python.
 - 💞️ I’m looking to collaborate on how to protect against ransomware.
 
 
